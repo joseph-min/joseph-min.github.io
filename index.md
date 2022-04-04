@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+My name is Joseph Min. This is my personal website and showcases some of my recent projects.
 
 <!-- Upload your own photo and change the path -->
 
