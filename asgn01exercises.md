@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---    
+
+
 # ASGN 01
 
 This assignment covers the basics of writing code in Jupyternote books, loading and saving data, and then working with the basic python structures: strings and lists. You'll also write some functions. The idea is to get familiarity with writing code and thinking and planning out solutions programmatically.
