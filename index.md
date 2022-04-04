@@ -30,6 +30,13 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
+_**[Assignment 1](asgn01exercises)**_
+
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
