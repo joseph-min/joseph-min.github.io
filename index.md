@@ -5,7 +5,7 @@ My name is Joseph Min. This is my personal website and showcases some of my rece
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/logo.jpeg" width="50%">
+  <img class="img-circle" src="images/josephmin.jpeg" width="50%">
 </p>
 
 ---
