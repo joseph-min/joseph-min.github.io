@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---    
+
+
 # Analysis Report
 The purpose of this report is to analyze S&P500 firms and how they were hurt more or less by Covid-19. More specifically, various risk factors were analyzed using Natural Language Processing (NLP) to find the association between the risk and the better/worse stock returns around the onset of the pandemic.
 
