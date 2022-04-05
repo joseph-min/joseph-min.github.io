@@ -18,7 +18,7 @@ _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/stocks.jpeg"/>
+<img src="images/stocks.jpeg"  width="50%"/>
 
 ---
 
@@ -39,7 +39,7 @@ _**[Assignment 1](asgn01exercises)**_
 
 _**[Midterm Project](midterm/analysis_report.md)**_
 
-<img src="images/npl.webp"/>
+<img src="images/npl.webp"  width="50%"/>
 
 ---
 
