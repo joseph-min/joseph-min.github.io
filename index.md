@@ -37,7 +37,7 @@ _**[Assignment 1](asgn01exercises)**_
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Midterm Project](midterm/analysis_report.md)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
