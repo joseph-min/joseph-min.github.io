@@ -51,15 +51,14 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
+This spring, I will be graduating with a B.S. in Integrated Business and Engineering with a concentration in Finance. I will being staying a 5th year at Lehigh to finish up my B.S. in Industrial and Systems Engineering (w/ Computer Science minor). 
 
-Sell yourself!
-
+After graduation, I will be moving to New York City to work at KPMG as an associate within their Financial Services Solutions group. I hope to gain a diverse set of experiences through meeting new clients and working on various engagements. 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I enjoy watching Philadelphia sports teams, hanging out with friends, hiking, taking hour long naps, running, and eating food. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
